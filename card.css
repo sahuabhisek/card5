@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+      .container{
+                      -border: 1px solid black;
+                      height: 500px;
+                      width: 98vw;
+                      display: flex;
+                      justify-content: space-between;
+                      box-shadow: 10px 10px 10px grey;
+      }
+      .item{
+                    -border: 1px solid black;
+                    height: 500px;
+                    width: 600px;
+                    box-shadow: 10px 10px 10px grey;
+                    
+      }
+      .item h3{
+                       text-align: center;
+                       margin-left: 35px;
+      }
+    .item   p{
+                margin-left:10px;
+      }
+      .item img{
+                    margin-left:120px;
+                    margin-top:50px;
+                    -border: 1px solid black;
+                    border-radius: 100%;
+                    width:50%;
+                    box-shadow: 5px 5px 5px grey;
+                    
+      }
+      .btn{
+               margin-left:150px;
+               margin-top: 50px;
+               color:red;
+                padding: 5px;               
+      }
